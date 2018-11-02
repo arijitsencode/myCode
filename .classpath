@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Data/guava-17.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Data/mockito-all-1.9.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Data/hystrix-core-1.5.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Data/rxjava-1.0.14.jar"/>
+	<classpathentry kind="lib" path="C:/Data/slf4j-api-1.8.0-alpha2.jar"/>
+	<classpathentry kind="lib" path="C:/Data/archaius-core-0.7.4-rc.1.jar"/>
+	<classpathentry kind="lib" path="C:/Data/HdrHistogram-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Data/commons-configuration-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Data/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Data/org-apache-commons-logging.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
